@@ -7,7 +7,7 @@ The user can either perform an high level analysis to assess the year to date pe
 
 Thank you.
 
-Riccardo Poli
+__Riccardo Poli__
 
 https://www.linkedin.com/in/riccardopoli/ 
 
