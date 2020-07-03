@@ -1,4 +1,4 @@
-# Automated analysis of the financial markets
+# Automated analysis of the financial markets by sector 
 
 This Jupyter notebook enables the user to perform an automated stock market analysis for the __sector__ or __sub-sector__ of interest. 
 The assessment is made against the performance of each stock at the beginning of the year, 2020, and has been developed to assess the impact on COVID-19 on each sector of the financial markets.
